@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my Github Profile!
+
+My profile is currently under construction. But in the meantime, here are some links that may be of interest.
 
 <!--
 **tcharvey26/tcharvey26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
