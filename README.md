@@ -1,4 +1,4 @@
-### Welcome to my Github profile!
+### Welcome to my GitHub profile!
 
 My profile is currently under construction.
 
